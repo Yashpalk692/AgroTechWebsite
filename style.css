@@ -32,7 +32,7 @@ font-family: 'Ubuntu', sans-serif;
     font-size: 40px;
     font-weight: 200;
     margin-left: -3px;
-    color: #bdb794;
+    color: #c4ddb6;
 }
 
 .interest-list {
@@ -41,7 +41,7 @@ font-family: 'Ubuntu', sans-serif;
     /* justify-content: space-around; Remove this line */
     font-weight: 250;
     font-size: 27px;
-    color: #0a880a; 
+    color: #c4ddb6; 
 }
 
 .interest-list li {
